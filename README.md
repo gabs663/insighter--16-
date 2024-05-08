@@ -1,6 +1,6 @@
 
 
-@ insighter
+# insighter
 
 Imagine ter ao seu lado um aliado confiável, a Plataforma de Análise de Desempenho e Benchmarking (PADB), que funciona como um assistente dedicado aos gestores da empresa. Essa ferramenta foi desenvolvida com grande atenção aos detalhes para oferecer uma compreensão profunda do desempenho da empresa, como se fosse um guia que ajuda os gestores a navegarem pelas complexidades do mercado. Com o insghter, os gestores recebem não apenas dados, mas também insights valiosos e orientação estratégica, capacitando-os a tomar decisões informadas e a impulsionar o sucesso e a competitividade da empresa.
 
