@@ -10,7 +10,7 @@ O insghter é como uma "central de controle" onde os gestores podem ver tudo o q
 
 Além disso, o insghter também compara o desempenho da empresa com outras empresas semelhantes no mercado. Isso é como ter um amigo experiente ao seu lado, que compara suas conquistas com as de outras pessoas para ajudá-lo a entender onde você está se destacando e onde pode melhorar.
 
-# Vantagens:
+# Vantagens da criação do projeto:
 
 Visão Completa do Desempenho: Com o insghter, os gestores podem ver todos os aspectos importantes do desempenho da empresa de uma só vez, o que os ajuda a ter uma visão mais clara de como as coisas estão indo.
 
