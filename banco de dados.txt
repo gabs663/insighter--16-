@@ -1,0 +1,59 @@
+CREATE DATABASE insighter;
+USE insighter;
+
+
+CREATE TABLE Empresa (
+    ID INT PRIMARY KEY AUTO_INCREMENT,
+    Nome VARCHAR(100),
+    Setor VARCHAR(100),
+    Localizacao VARCHAR(100)
+);
+
+
+CREATE TABLE Gestor (
+    ID INT PRIMARY KEY AUTO_INCREMENT,
+    Nome VARCHAR(100),
+    Cargo VARCHAR(100),
+    Email VARCHAR(100),
+    Empresa_ID INT,
+    FOREIGN KEY (Empresa_ID) REFERENCES Empresa(ID)
+);
+
+
+CREATE TABLE Funcionarios (
+    ID INT PRIMARY KEY AUTO_INCREMENT,
+    Nome VARCHAR(100),
+    Cargo VARCHAR(100),
+    Email VARCHAR(100),
+    Empresa_ID INT,
+    Gestor_ID INT,
+    FOREIGN KEY (Empresa_ID) REFERENCES Empresa(ID),
+    FOREIGN KEY (Gestor_ID) REFERENCES Gestor(ID)
+);
+
+
+CREATE TABLE Indicadores_De_Desempenho (
+    ID INT PRIMARY KEY AUTO_INCREMENT,
+    Nome VARCHAR(100),
+    Descricao TEXT,
+    Unidade_Medida VARCHAR(50)
+);
+
+
+CREATE TABLE Comparacao_De_Desempenho (
+    ID INT PRIMARY KEY AUTO_INCREMENT,
+    Empresa_ID INT,
+    Indicador_ID INT,
+    Valor DECIMAL(18, 2),
+    Data_Comparacao DATE,
+    FOREIGN KEY (Empresa_ID) REFERENCES Empresa(ID),
+    FOREIGN KEY (Indicador_ID) REFERENCES Indicadores_De_Desempenho(ID)
+);
+
+
+CREATE TABLE Acesso_e_Permissões (
+    ID INT PRIMARY KEY AUTO_INCREMENT,
+    Gestor_ID INT,
+    Permissoes VARCHAR(255),
+    FOREIGN KEY (Gestor_ID) REFERENCES Gestor(ID)
+);
