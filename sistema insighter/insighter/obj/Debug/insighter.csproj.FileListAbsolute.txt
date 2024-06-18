@@ -1,0 +1,21 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\trabalhos\projeto jeff\sistema insighter\insighter\obj\Debug\insighter.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\trabalhos\projeto jeff\sistema insighter\insighter\obj\Debug\insighter.Insighter.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\trabalhos\projeto jeff\sistema insighter\insighter\obj\Debug\insighter.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\trabalhos\projeto jeff\sistema insighter\insighter\obj\Debug\insighter.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\trabalhos\projeto jeff\sistema insighter\insighter\obj\Debug\insighter.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\trabalhos\projeto jeff\sistema insighter\insighter\bin\Debug\insighter.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\trabalhos\projeto jeff\sistema insighter\insighter\bin\Debug\insighter.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\trabalhos\projeto jeff\sistema insighter\insighter\bin\Debug\insighter.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\trabalhos\projeto jeff\sistema insighter\insighter\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\trabalhos\projeto jeff\sistema insighter\insighter\obj\Debug\insighter.csproj.Up2Date
+C:\Users\gabri\OneDrive\Área de Trabalho\trabalhos\projeto jeff\sistema insighter\insighter\obj\Debug\insighter.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\trabalhos\projeto jeff\sistema insighter\insighter\obj\Debug\insighter.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\trabalhos\projeto jeff\sistema insighter\insighter\obj\Debug\insighter.Forms.FormCustomizar.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\trabalhos\projeto jeff\sistema insighter\insighter\obj\Debug\insighter.Forms.FormMarketing.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\trabalhos\projeto jeff\sistema insighter\insighter\obj\Debug\insighter.Forms.FormOrdemdeProdutos.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\trabalhos\projeto jeff\sistema insighter\insighter\obj\Debug\insighter.Forms.FormPaineldeControle.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\trabalhos\projeto jeff\sistema insighter\insighter\obj\Debug\insighter.Forms.FormProdutos.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\trabalhos\projeto jeff\sistema insighter\insighter\obj\Debug\insighter.Forms.FormConfigurações.resources
+C:\Users\Tecnico\Desktop\projeto jeff\projeto jeff\sistema insighter\insighter\obj\Debug\insighter.csproj.AssemblyReference.cache
+C:\Users\Tecnico\Desktop\projeto jeff\projeto jeff\sistema insighter\insighter\obj\Debug\insighter.exe
+C:\Users\Tecnico\Desktop\projeto jeff\projeto jeff\sistema insighter\insighter\obj\Debug\insighter.pdb

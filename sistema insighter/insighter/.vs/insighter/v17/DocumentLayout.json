@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tecnico\\Desktop\\projeto jeff\\projeto jeff\\sistema insighter\\insighter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23A334AA-4A4A-4C51-9804-9CC2316F7BA2}|insighter.csproj|c:\\users\\tecnico\\desktop\\projeto jeff\\projeto jeff\\sistema insighter\\insighter\\forms\\formordemdeprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23A334AA-4A4A-4C51-9804-9CC2316F7BA2}|insighter.csproj|solutionrelative:forms\\formordemdeprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A334AA-4A4A-4C51-9804-9CC2316F7BA2}|insighter.csproj|C:\\Users\\Tecnico\\Desktop\\projeto jeff\\projeto jeff\\sistema insighter\\insighter\\forms\\formcustomizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23A334AA-4A4A-4C51-9804-9CC2316F7BA2}|insighter.csproj|solutionrelative:forms\\formcustomizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A334AA-4A4A-4C51-9804-9CC2316F7BA2}|insighter.csproj|C:\\Users\\Tecnico\\Desktop\\projeto jeff\\projeto jeff\\sistema insighter\\insighter\\forms\\formprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23A334AA-4A4A-4C51-9804-9CC2316F7BA2}|insighter.csproj|solutionrelative:forms\\formprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A334AA-4A4A-4C51-9804-9CC2316F7BA2}|insighter.csproj|C:\\Users\\Tecnico\\Desktop\\projeto jeff\\projeto jeff\\sistema insighter\\insighter\\insighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A334AA-4A4A-4C51-9804-9CC2316F7BA2}|insighter.csproj|solutionrelative:insighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A334AA-4A4A-4C51-9804-9CC2316F7BA2}|insighter.csproj|C:\\Users\\Tecnico\\Desktop\\projeto jeff\\projeto jeff\\sistema insighter\\insighter\\forms\\formcustomizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A334AA-4A4A-4C51-9804-9CC2316F7BA2}|insighter.csproj|solutionrelative:forms\\formcustomizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A334AA-4A4A-4C51-9804-9CC2316F7BA2}|insighter.csproj|C:\\Users\\Tecnico\\Desktop\\projeto jeff\\projeto jeff\\sistema insighter\\insighter\\insighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23A334AA-4A4A-4C51-9804-9CC2316F7BA2}|insighter.csproj|solutionrelative:insighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 323,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "insighter.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projeto jeff\\projeto jeff\\sistema insighter\\insighter\\insighter.cs",
+              "RelativeDocumentMoniker": "insighter.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projeto jeff\\projeto jeff\\sistema insighter\\insighter\\insighter.cs",
+              "RelativeToolTip": "insighter.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAAAiwMcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:54:22.227Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "insighter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projeto jeff\\projeto jeff\\sistema insighter\\insighter\\insighter.cs",
+              "RelativeDocumentMoniker": "insighter.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projeto jeff\\projeto jeff\\sistema insighter\\insighter\\insighter.cs [Design]",
+              "RelativeToolTip": "insighter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:36:57.255Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormOrdemdeProdutos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projeto jeff\\projeto jeff\\sistema insighter\\insighter\\Forms\\FormOrdemdeProdutos.cs",
+              "RelativeDocumentMoniker": "Forms\\FormOrdemdeProdutos.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projeto jeff\\projeto jeff\\sistema insighter\\insighter\\Forms\\FormOrdemdeProdutos.cs [Design]",
+              "RelativeToolTip": "Forms\\FormOrdemdeProdutos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:32:51.067Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormCustomizar.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projeto jeff\\projeto jeff\\sistema insighter\\insighter\\Forms\\FormCustomizar.cs",
+              "RelativeDocumentMoniker": "Forms\\FormCustomizar.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projeto jeff\\projeto jeff\\sistema insighter\\insighter\\Forms\\FormCustomizar.cs",
+              "RelativeToolTip": "Forms\\FormCustomizar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:22:05.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormProdutos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projeto jeff\\projeto jeff\\sistema insighter\\insighter\\Forms\\FormProdutos.cs",
+              "RelativeDocumentMoniker": "Forms\\FormProdutos.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projeto jeff\\projeto jeff\\sistema insighter\\insighter\\Forms\\FormProdutos.cs [Design]",
+              "RelativeToolTip": "Forms\\FormProdutos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T18:44:44.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCustomizar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\Desktop\\projeto jeff\\projeto jeff\\sistema insighter\\insighter\\Forms\\FormCustomizar.cs",
+              "RelativeDocumentMoniker": "Forms\\FormCustomizar.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\Desktop\\projeto jeff\\projeto jeff\\sistema insighter\\insighter\\Forms\\FormCustomizar.cs [Design]",
+              "RelativeToolTip": "Forms\\FormCustomizar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T18:09:53.694Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
