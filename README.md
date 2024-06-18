@@ -23,3 +23,9 @@ Identificação de Oportunidades: O insghter destaca áreas onde a empresa está
 Eficiência e Economia de Tempo: Com o insghter, os gestores não precisam mais gastar horas analisando dados manualmente. Isso economiza tempo e recursos, permitindo que eles se concentrem em outras tarefas importantes.
 
 Com a Plataforma de Análise de Desempenho e Benchmarking (PADB), sua empresa ganha um verdadeiro aliado na busca pelo sucesso. Imagine ter ao seu lado uma ferramenta que não só analisa dados, mas também entende as necessidades da sua empresa. O insghter não apenas fornece números, mas também oferece conselhos valiosos e insights perspicazes para orientar suas decisões. Deixe o insghter ser o seu parceiro de confiança na jornada para alcançar seus objetivos empresariais. Com ela, você não está apenas coletando dados, está construindo um futuro sólido e promissor para sua empresa.
+
+
+Amandha Nascimento Silva 
+Maria Vitória Carvalho de Assis
+Gabriel Oliveira Santos da Silva
+Gabriel Pereira Lima
